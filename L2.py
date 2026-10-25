@@ -1188,7 +1188,52 @@ print(f'salam {name}')
 
 '''
 
+Python 08 jalase 2 
 
+
+Taklife 1 : Tavabe ye string haro dar yek file bename str_functions.py done done 
+besoorate random yek string besazid va done done estefade konid va yek ya do khat ozih benevisid
+
+masalan
+
+name = 'ali'
+new_name = name.title()
+print(new_name) #Ali
+
+#in tabe miad avale har harf ro bozorg mikone
+
+
+
+
+Taklife 2 : az user esme mahsool va gheymat ro begirid va 25 % takhfif emal konid
+bad be user neshon bedid --> Gheymaten Nahaei mahsoole 'Esme mahsol besorate title' hast
+'gheymate bad az 25% takhfif'
+
+
+
+Taklife 3 : az user esme mahsool, gheymate mahsool va darsade takhfif begirid va roye
+gheymat, darsadi ke user dade ro emal konid va benevisid -->
+gheymate nahaei mahsoole 'esme mahsool besoorate bozorg va bedone space' hast 'gheymate
+nahaei bad az takhfif'
+
+
+
+Taklife 4 : az user esmesho begirid va hamchenin tedade horofe esmesho begirid .
+badesh age doros gofte bood print beshe True , age ghalat gofte bood print beshe False
+
+**Nokte : az mabahesi ke ta alan tadris shode faghat mitonid estefade konid na mabahesi ke
+dar jalasate badi tadris mishe
+
+
+
+4 Ta file .py besazid va file haro az tarighe email be emaile ai.course22.alipilehvar@gmail.com
+
+ba subjecte --> L2_name_lastname   yani esmo famileton masalan L2_Farhad_majidi 
+
+ersal konid
+
+
+moafagh bashid
 
 
 
